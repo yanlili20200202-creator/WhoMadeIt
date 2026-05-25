@@ -136,6 +136,7 @@ export const textPosts = [
   },
   {
     id: "text-10",
+    image: "/images/text/text-10.png",
     category: "Appeal Text",
     cnCategory: "申诉文字",
     title: "the appeal is also suspicious",
